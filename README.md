@@ -676,10 +676,6 @@ xdg-open index.html  # Linux
 ## ⚠️ Important Disclaimers
 
 - **Data Source**: Analysis based on publicly available electoral roll deletion data
-- **Deletion Context**: High deletion rates don't automatically indicate malfeasance; legitimate causes include:
-  - Urban redevelopment causing mass relocations
-  - Aging demographics in certain areas
-  - Historical data quality issues being corrected
 - **Verification**: Ground truth verification recommended for anomalous patterns
 - **Methodology Transparency**: All calculations and data transformations documented in generation scripts
 
@@ -774,3 +770,4 @@ Visualizations and analysis methodology are open for reuse with attribution.
 **Dashboard Charts**: 20+ interactive visualizations  
 **AC Report Charts**: 18+ visualizations per constituency  
 **Total Reports**: 1 Dashboard + 234 AC Reports = 235 HTML files
+
