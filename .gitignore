@@ -3,6 +3,7 @@
 
 # But include these specific files/folders
 !.gitignore
+!README.md
 !index.html
 !ac_reports/
 !ac_reports/**
