@@ -28,10 +28,10 @@ This repository contains an in-depth analysis of voter deletions from the Tamil 
 
 ## 📈 DASHBOARD CHARTS (`index.html`)
 
-The main dashboard provides state-level analysis across all 234 constituencies. All charts use data from `ac_summary_ac_wise_full.csv`.
+The main dashboard provides state-level analysis across all 234 constituencies. All charts use data from Overall Tamilnadu analysis.
 
 ### Data Source
-**File**: `ac_summary_ac_wise_full.csv`  
+**Source**: Overall Tamilnadu analysis  
 **Description**: Aggregated summary statistics for all 234 ACs including deletion counts, percentages, demographic breakdowns, and reason classifications.
 
 ---
@@ -287,15 +287,11 @@ The main dashboard provides state-level analysis across all 234 constituencies. 
 
 ## 🏛️ ASSEMBLY CONSTITUENCY REPORTS (`ac_reports/ac_*.html`)
 
-Each AC report provides granular analysis for a single constituency. All data comes from individual AC CSV files located at `E:/ac_wise_output/ac{number}.csv`.
+Each AC report provides granular analysis for a single constituency. All data comes from Constituency Wise Analysis.
 
 ### Data Source
-**Files**: `E:/ac_wise_output/ac1.csv` through `ac234.csv`  
+**Source**: Constituency Wise Analysis  
 **Description**: Detailed deletion records for each AC including: Name, Age, Gender, Relationship, Reason, Part_Number (polling station), AC_Name  
-
-**Additional Data**:
-- `ac_summary_2025.csv` - January 2025 elector counts
-- `ac_summary_2025_12.csv` - December 2025 elector counts  
 
 ---
 
