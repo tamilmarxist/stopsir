@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# But include these specific files/folders
+!.gitignore
+!index.html
+!ac_reports/
+!ac_reports/**
